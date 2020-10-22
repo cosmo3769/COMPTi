@@ -1,0 +1,2 @@
+# COMPTi
+competitive programming 
